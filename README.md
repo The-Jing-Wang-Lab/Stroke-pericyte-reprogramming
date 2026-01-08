@@ -1,6 +1,7 @@
 # Single-cell profiling of brain pericyte heterogeneity following ischemic stroke unveils distinct pericyte subtype-targeted neural reprogramming potential and its underlying mechanisms
 ## Authors
 Allison Loan, Nidaa Awaja, Margarita Lui, Charvi Syal, Yiren Sun, Sailendra N Sarma, Ragav Chona, William B Johnston, Alex Cordova, Devansh Saraf, Anabella Nakhlé, Kaela O'Connor, Jacob Thomas, Joseph Leung, Matthew Seegobin, Ling He, Fredric E Wondisford, David J Picketts, Eve C Tsai, Hing Man Chan, Jing Wang
+
 ## Abstract
 Rationale: Brain pericytes can acquire multipotency to produce multi-lineage cells following injury. However, pericytes are a heterogenous population and it remains unknown whether there are different potencies from different subsets of pericytes in response to injury.
 Methods: We used an ischemic stroke model combined with pericyte lineage tracing animal models to investigate brain pericyte heterogeneity under both naïve and brain injury conditions via single-cell RNA-sequencing and immunohistochemistry analysis. In addition, we developed an NG2+ pericyte neural reprogramming culture model from both murine and humans to unveil the role of energy sensor, AMP-dependent kinase (AMPK), activity in modulating the reprogramming/differentiation process to convert pericytes to functional neurons by targeting a Ser 436 phosphorylation on CREB-binding protein (CBP), a histone acetyltransferase.
