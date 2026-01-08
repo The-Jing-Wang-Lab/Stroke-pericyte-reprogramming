@@ -1,6 +1,6 @@
 # Single-cell profiling of brain pericyte heterogeneity following ischemic stroke unveils distinct pericyte subtype-targeted neural reprogramming potential and its underlying mechanisms
 ## Authors
-Allison Loan 1,2,#, Nidaa Awaja 1,#, Margarita Lui 1, Charvi Syal 1, Yiren Sun 1,3, Sailendra N Sarma 1,4, Ragav Chona 1, William B Johnston 1,5, Alex Cordova 1, Devansh Saraf 1,5, Anabella Nakhlé 1, Kaela O'Connor 1,6,7, Jacob Thomas 1, Joseph Leung 1,2,8, Matthew Seegobin 1, Ling He 9, Fredric E Wondisford 9, David J Picketts 1,5,10,11, Eve C Tsai 3,12, Hing Man Chan 2, Jing Wang 1,5,11,13,✉
+Allison Loan, Nidaa Awaja, Margarita Lui, Charvi Syal, Yiren Sun, Sailendra N Sarma, Ragav Chona, William B Johnston, Alex Cordova, Devansh Saraf, Anabella Nakhlé, Kaela O'Connor, Jacob Thomas, Joseph Leung, Matthew Seegobin, Ling He, Fredric E Wondisford, David J Picketts, Eve C Tsai, Hing Man Chan, Jing Wang
 ## Abstract
 Rationale: Brain pericytes can acquire multipotency to produce multi-lineage cells following injury. However, pericytes are a heterogenous population and it remains unknown whether there are different potencies from different subsets of pericytes in response to injury.
 Methods: We used an ischemic stroke model combined with pericyte lineage tracing animal models to investigate brain pericyte heterogeneity under both naïve and brain injury conditions via single-cell RNA-sequencing and immunohistochemistry analysis. In addition, we developed an NG2+ pericyte neural reprogramming culture model from both murine and humans to unveil the role of energy sensor, AMP-dependent kinase (AMPK), activity in modulating the reprogramming/differentiation process to convert pericytes to functional neurons by targeting a Ser 436 phosphorylation on CREB-binding protein (CBP), a histone acetyltransferase.
@@ -10,5 +10,5 @@ Conclusion: We revealed that two distinct subtypes of pericytes possess differen
 ## Graphical Abstract
 ![graphical abstract](https://github.com/user-attachments/assets/f7f12e1c-0208-4444-826d-8e9b387e7df7)
 
-# Stroke-pericyte-reprogramming
-Code for: Loan A, Awaja N, Lui M, Syal C, Sun Y, Sarma SN, Chona R, Johnston WB, Cordova A, Saraf D, Nakhlé A, O'Connor K, Thomas J, Leung J, Seegobin M, He L, Wondisford FE, Picketts DJ, Tsai EC, Chan HM, Wang J. Single-cell profiling of brain pericyte heterogeneity following ischemic stroke unveils distinct pericyte subtype-targeted neural reprogramming potential and its underlying mechanisms. Theranostics. 2024 Sep 23;14(16):6110-6137. doi: 10.7150/thno.97165. PMID: 39431007; PMCID: PMC11488099.
+# Paper
+Loan A, Awaja N, Lui M, Syal C, Sun Y, Sarma SN, Chona R, Johnston WB, Cordova A, Saraf D, Nakhlé A, O'Connor K, Thomas J, Leung J, Seegobin M, He L, Wondisford FE, Picketts DJ, Tsai EC, Chan HM, Wang J. Single-cell profiling of brain pericyte heterogeneity following ischemic stroke unveils distinct pericyte subtype-targeted neural reprogramming potential and its underlying mechanisms. Theranostics. 2024 Sep 23;14(16):6110-6137. doi: 10.7150/thno.97165. PMID: 39431007; PMCID: PMC11488099.
